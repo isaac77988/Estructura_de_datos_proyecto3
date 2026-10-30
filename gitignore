@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+datos_portafolio.json
+.vscode/
+.idea/
