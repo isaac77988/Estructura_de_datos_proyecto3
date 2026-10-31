@@ -1,15 +1,3 @@
-"""
-Portafolio Bancario - Aplicación educativa (simulación)
-Servicios: cuenta de ahorros, CDT, bonos, acciones, divisas, historial y resumen.
-
-Requisitos:  pip install requests matplotlib yfinance
-Ejecutar:    python portafolio_bancario.py
-
-- Toda la información ingresada se guarda en 'datos_portafolio.json'.
-- Las gráficas se alimentan de APIs públicas:
-    * yfinance / Yahoo Finance (histórico de acciones)
-    * open.er-api.com (tasas de cambio)
-"""
 import json
 import os
 import tkinter as tk
