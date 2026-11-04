@@ -38,9 +38,13 @@ source venv/bin/activate
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
+            O
+py -m pip install -r requirements.txt
 
 # 4. Ejecutar
 python portafolio_bancario.py
+            O
+py portafolio_bancario.py
 ```
 
 En Mac/Linux usa `python3` en lugar de `python`.
