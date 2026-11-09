@@ -1,0 +1,23 @@
+{
+  "saldo": 10000.0,
+  "cdts": [],
+  "bonos": [],
+  "tes": [],
+  "acciones": {},
+  "transacciones": [],
+  "dividendos": [
+    {
+      "fecha": "2026-11-08 19:30",
+      "simbolo": "KO",
+      "monto": 10000.0
+    }
+  ],
+  "movimientos": [
+    {
+      "fecha": "2026-11-08 19:30",
+      "tipo": "Dividendo",
+      "detalle": "Ingreso dividendo KO",
+      "monto": 10000.0
+    }
+  ]
+}
